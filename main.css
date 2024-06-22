@@ -104,13 +104,13 @@ section p{
 .social-links img {
     height: 24px;
 }
-.social-links {
+.social-links li a {
     display: inline;
-    margin-right: 8px;
+    margin-right: 10px;
     margin-left: 16px;
     font-size: 18px;
 }
-.social-links{
+.social-links li a {
     text-decoration: none;
 }
 #contact.container{
